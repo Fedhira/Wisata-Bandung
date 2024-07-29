@@ -8,7 +8,5 @@ Proyek ini adalah sebuah web sistem informasi geografis yang dibangun menggunaka
 
 ## Fitur
 
-<p align="justify">
 - Peta interaktif yang menunjukkan lokasi tempat wisata di Bandung.
 - Detail informasi untuk setiap tempat wisata, termasuk deskripsi, kontak, harga, dan waktu yang diperlukan untuk mengunjungi.
-</p>
